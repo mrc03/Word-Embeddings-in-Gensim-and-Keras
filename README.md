@@ -10,6 +10,6 @@
 
 A simple implementation of word embeddings in Gensim and Keras libraries. 
 
-I have implemented famous Word2Vec in Gensim library.
+I have implemented famous Word2Vec in Gensim library. Then I have also used t-SNE to reduce the dimensions and then visualized the same using a scatter plot in plotly library.
 
 As an alternative I have also used Keras embedding layer to generate the word embeddings.
