@@ -1,2 +1,15 @@
+
+/*
+
+    Author:: Raj Mehrotra
+    Date:: 23-12-2018
+    
+ */
+
 # Word-Embeddings-in-Gensim-and-Keras
-A simple implementation of word embeddings in Gensim and Keras libraries. I have implemented famous Word2Vec in Gensim library. As an alternative I have also used Keras embedding layer to generate the word embeddings.
+
+A simple implementation of word embeddings in Gensim and Keras libraries. 
+
+I have implemented famous Word2Vec in Gensim library.
+
+As an alternative I have also used Keras embedding layer to generate the word embeddings.
